@@ -10,9 +10,9 @@ from bs4 import BeautifulSoup as bs
 #####################################################################
 #Change these values
 city = 'New York'
-zipcode = '10001'
+zipcode = '10016'
 stateAbr = 'NY'
-email = 'test@gmail.com'
+email = 'ratkicks@gmail.com'
 numberOfCoupons = 5
 
 #Enter an email you would like to use
